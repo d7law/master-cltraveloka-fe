@@ -1,0 +1,168 @@
+.formtimkiem {
+    padding: 0px;
+    box-shadow: 5px 10px 18px #888888;
+    width: 700px;
+    margin-left: 290px;
+    margin-top: 80px;
+    text-align: center;
+}
+
+.khungtitletimkiem {
+    background-color: dodgerblue;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.titletimkiem {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.phannhapdulieutimkiem {
+    padding-left: 10px;
+    text-align: left;
+}
+
+.titlechondiadiem {
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 3px;
+}
+
+.inputchondiadiem {
+    background: url("https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/0/06c6fdcf3e33d2950e2743ea8c3d2208.svg") no-repeat left ;
+    background-size: 24px;
+    width: 650px;
+    height: 30px;
+    border: 1px solid black;
+    font-size: 16px;
+    padding-left: 30px;
+    background-color: white;
+}
+
+.phannhanphongvasodem {
+    display: flex;
+}
+
+.titlengaynhanphong {
+    font-size: 14px;
+    font-weight: 700;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+.inputchonngaynhanphong {
+    width: 200px ;
+    height: 34px;
+    font-size: 17px;
+    outline: 0;
+    box-sizing: border-box;
+    
+}
+
+
+
+.titlesodem {
+    font-size: 14px;
+    font-weight: 700;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+.inputchonchonsodem {
+    background: url('https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/b/b0ee9b0e2caa9d0b970177b0c2ee77d0.svg') no-repeat left;
+    background-size: 24px;
+    width: 190px;
+    height: 34px;
+    font-size: 16px;
+    padding-left: 30px;
+    background-color: white;
+}
+
+.titlengaytraphong {
+    font-size: 14px;
+    font-weight: 700;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+.textngaytraphong {
+    margin-top: 14px;
+    margin-bottom: 0px;
+    font-weight: 500;
+}
+
+.khachphongvabutontim {
+    display: flex;
+}
+
+.titlekhachvaphong {
+    font-size: 14px;
+    font-weight: 700;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.cacloaikhachdatphong {
+    margin-top: 5px;
+    font-size: 16px;
+    text-align: left;
+    font-weight: 500;
+    margin-bottom: 12px;
+}
+
+.inputsonguoilon {
+    margin-top: 5px;
+    width: 50px;
+    margin-left: 10px;
+    height: 18px;
+}
+
+.buttonbatdautimkiem {
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: rgb(255, 94, 31);
+    color: white;
+    border: 0px;
+    width: 218px;
+    height: 50px;
+    font-size: 17px;
+    font-weight: 700;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 4px;
+    padding: 12px;
+}
+
+.buttonbatdautimkiem :hover{
+    background-color: rgb(255, 91, 31);
+}
+
+
+
+.checkboxcongtac {
+    border-radius: 25%;
+    border: 1px solid black;
+    appearance: none;
+    -webkit-appearance: none;
+    height: 40px;
+    width: 40px;
+    transform: scale(0.7);
+    background-color: white;
+}
+
+.checkboxcongtac:checked {
+    background-color: dodgerblue;
+}
+
+.titlecongtac {
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 14px;
+    padding-left: 7px;
+}
+

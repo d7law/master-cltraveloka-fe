@@ -1,0 +1,165 @@
+.labelthethanhtoan {
+    font-weight: 500;
+    font-size: 20px;
+    float: left;  
+}
+
+.labelsothe {
+    font-weight: 600;
+    font-size: 16px;
+    float: left;
+}
+
+.form1 {
+    width: 400px;
+}
+
+
+
+.inputsothe {
+    width: 370px;
+    height: 30px;
+    font-size: 16px;
+    padding-left: 20px;
+    border: 2px solid rgb(155, 155, 155);
+    border-radius: 0;
+}
+.inputsothe:focus {
+    border: 2px solid rgb(155, 155, 155);
+    border-radius: 0;
+}
+
+.inputhieuluc {
+    width: 170px;
+    height: 30px;
+    font-size: 16px;
+    padding-left: 20px;
+    border: 2px solid rgb(155, 155, 155);
+    border-radius: 0;
+}
+
+.inputCVV {
+    width: 170px;
+    height: 30px;
+    font-size: 16px;
+    padding-left: 20px;
+    border: 2px solid rgb(155, 155, 155);
+    border-radius: 0;
+}
+
+.labelchitietgia {
+    font-weight: 500;
+    font-size: 20px;
+    float: left; 
+}
+
+.tenkhachsanvaphong {
+    color: rgb(115, 115, 115);
+    text-align: left;
+    font-size: 14px;
+    width: 250px;
+    font-weight: 500;
+}
+
+.giatienphong { 
+    padding-right: 200px;
+    text-align: right;
+    font-size: 14px;
+    width: 130px;
+    font-weight: 500;
+    float: left;
+}
+
+.labeltongchiphi {
+    color: rgb(0, 0, 0);
+    text-align: left;
+    font-size: 17px;
+    width: 250px;
+    font-weight: 500;
+}
+
+.tonggiatien {
+    padding-right: 200px;
+    text-align: right;
+    font-size: 17px;
+    width: 130px;
+    font-weight: 500;
+    float: left;
+}
+
+.thongbaodiem {
+    text-align: left;
+    font-size: 16px;
+    font-weight: 400;
+    color:rgb(1, 142, 189) ;
+}
+
+.policy {
+    text-align: right;
+    font-size: 15px;
+    padding-right: 20px;
+}
+
+.underlinkpolicy {
+    text-decoration-line: underline;
+    color: rgb(28, 53, 218);
+}
+
+.btnthanhtoan {
+    border-radius: 7px;
+    background-color: orangered;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+     font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.formnho {
+    max-width: 250px;
+}
+
+.labelmadatcho {
+    color: rgb(102, 102, 102);
+    font-weight: 500;
+    font-size: 16px;
+    text-align: left;
+    padding-top: 15px;
+    padding-right: 115px;
+    margin-right: 10px;
+}
+
+.madatcho {
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.thongtinkiemtralai {
+    text-align: left;
+    font-size: 12.5px;
+    width: 200px;
+}
+
+.labelkhach {
+    font-weight: 600;
+    font-size: 16px;
+    float: left;
+}
+
+.tenkhach {
+    text-align: left;
+    height: 20px;
+    font-size: 15px;
+    font-weight: 400px;
+}
+
+.payment{
+    margin-left: 350px;
+}
+h2{
+    margin-left: 120px;
+}

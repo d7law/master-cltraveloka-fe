@@ -1,0 +1,732 @@
+.slideanh {
+    width: 920px;
+    min-height: 650px;
+    padding: 15px 20px 15px 20px;
+    margin-left: 170px;
+}
+
+.tenkhachsaninfo {
+    text-align: left;
+    font-size: 18px;
+}
+
+.phanbietinfo {
+    border-radius: 50px;
+    border: 2px solid #18a8e6;
+    padding: 3px 6px; 
+    min-width: 70px;
+    max-width: 90px;
+    text-align: center;
+    line-height: 1;
+    font-size: 12px;
+    color: #18a8e6;
+    margin-top: -5px;
+}
+
+.danhgiainfo {
+    font-size: 16px;
+    margin: 0;
+    text-align: left;
+    margin-top: -10px;
+    color: #18a8e6;
+    margin-left: 15px;
+}
+
+.diachiinfo {
+    font-size: 14px;
+    color: rgba(104,113,118,1.00);
+    margin: 0;
+    text-align: left;
+    margin-top: -10px;
+}
+
+.giaphongvanutdatphong {
+    padding-top: 20px ;
+    text-align: right;
+}
+
+.giaphongtu {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.btndatngayuppep {
+    border-radius: 7px;
+    background-color: orangered;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 700;
+    margin: 3px 1px;
+    cursor: pointer;
+    width: 170px;
+}
+
+.tiennghitong {
+    text-align: center;
+    font-size: 20px;
+    padding-left: 15px;
+}
+.tiennghihinhvachu {
+    text-align: left;
+    display: flex;
+    margin-left: 146px;
+}
+
+.imgsvgs {
+    margin-top: -5px;
+}
+
+.tiennghidautien {
+    padding-left: 20px;
+    text-align: center;
+}
+
+.tentiennghi {
+    margin-top: 0px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.tiennghithutu {
+    padding-left: 60px;
+    text-align: center;
+}
+
+.formcomment {
+    background-color: white;
+    border-radius: 8px;
+    width: 380px;
+    margin-left: 275px;
+    text-align: left;
+    padding: 15px;
+    box-shadow: 10px 1px 15px  #888888;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 155px;
+}
+
+.topcomment {
+    display: -webkit-box;
+    font-weight: 400;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    -webkit-line-clamp: 4;
+    word-wrap: break-word;
+    -webkit-box-orient: vertical;
+}
+
+.imgTopcomment {
+    margin-top: -10px;
+    padding-right: 10px; 
+}
+
+.tentopcomment {
+    margin-top: -5px;
+    margin-bottom: 0px;
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.thongtinphong {
+    width: 920px;
+    padding: 15px;
+    border: 1px solid black;
+    margin-left: 175px;
+}
+
+.loaiphong {
+    margin-top: 0px;
+    text-align: left;
+    font-weight: 500;
+}
+
+.formanh {
+    padding: 0px;
+    border-radius: 10px;
+    width: 270px;
+    background-color: #888888;
+}
+
+.anhloaiphong {
+    flex-direction: column;
+    width: 270px;
+    border-radius: 15px;   
+}
+
+.anhloaiphonglon {
+    width: 270px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    
+}
+
+.anhloaiphongnho {
+    width: 88px;
+    margin-left: 3.1px;
+}
+
+.anhloaiphongnhotraicung {
+    width: 88px;
+    margin-left: 3.1px;
+    border-bottom-left-radius: 10px;
+}
+
+.anhloaiphongnhophaicung {
+    width: 88px;
+    margin-left: 3.1px;
+    border-bottom-right-radius: 10px;
+}
+
+.tenloaiphong {
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.anhthuocdo {
+    width: 16px;
+    height: 16px;
+    margin-top: 5px;
+    padding-left: 10px;
+}
+
+.dientichphong {
+    margin-top: 0px;
+    text-align: left;
+    padding-left: 10px;
+    font-weight: 500;
+}
+
+.tienichphong1 {
+    border-radius: 50px;
+    border: 1px  transparent;
+    padding: 3px 6px; 
+    min-width: 50px;
+    max-width: 70px;
+    height: 15px;
+    text-align: center;
+    line-height: 1;
+    font-size: 12px;
+    color: rgb(0, 101, 67);
+    margin-top: -5px;
+    background-color: aquamarine;
+    line-height: 14px;
+    font-weight: 500;
+}
+
+.btnxemchitietphong {
+    background-color: rgb(214, 240, 253);
+    border-radius: 7px;
+    height: 40px;
+    width: 250px;
+    font-size: 15px;
+    border: 0px;
+    color: #18a8e6;
+    font-weight: 600;
+}
+
+.formthongtinphongngoai {
+    width: 570px;
+    background-color: antiquewhite;
+    padding: 12px 22px 12px 22px;
+}
+
+.thongtinchungphong {
+    margin-top: 0px;
+    font-weight: 500;
+    font-size: 15px;
+    margin-bottom: 10px;
+    padding-left: 7px;
+}
+
+.anhthongtinchungphong {
+    height: 16px;
+    width: 16px;
+}
+
+.sophongtrong {
+    font-size: 12px;
+    margin-top: 0px;
+    color: rgb(255, 0, 0);
+    margin-bottom: 10px;
+}
+
+.cactienichformngoaiinactive {
+    margin-top: 2px;
+    margin-bottom: 12px;
+    font-size: 14px;
+    font-weight: 500;
+    color: rgba(104,113,118,1.00);
+}
+
+.cactienichformngoaiactive {
+    margin-top: 2px;
+    margin-bottom: 12px;
+    color: rgb(11, 193, 117);
+    font-size: 14px;
+    font-weight: 500;  
+}
+
+.tongcactienich1 {
+    text-align: left; 
+    width:170px;
+    max-height:100px;
+}
+
+.tongcactienich2 {
+    max-height: 110px;
+    text-align:left;
+    width: 190px;
+    margin-left: 50px;
+}
+
+.divcactienich {
+    display: flex;
+}
+
+.chinhsachhuydatphongformngoai {
+    margin-top: 2px;
+    margin-bottom: 12px;
+    color: rgba(1,148,243,1.00);
+    font-size: 14px;
+    font-weight: 500;  
+}
+
+.chinhsachhuydatphongformngoai .tooltipchinhsachhuy {
+    visibility: hidden;
+    min-width: 200px;
+    max-width: 300px;
+    position: relative;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px;
+    z-index: 1;
+    bottom: 120%;
+    left: 20%;
+    margin-left: -150px;
+}
+
+.chinhsachhuydatphongformngoai:hover .tooltipchinhsachhuy {
+    visibility: visible;
+}
+
+.anhcactienichformngoai {
+    width: 16px;
+    height: 16px;
+    margin-top: 3px;
+    padding-right: 7px;
+    vertical-align: middle;
+}
+
+.giatiengocformngoai {
+    margin-top: 0px;
+    margin-bottom: 5px;
+    font-size: 12px;
+    color: rgba(104,113,118,1.00);
+    text-decoration: line-through;
+}
+
+.giatiensaugiamgiaformngoai {
+    margin-top: 0px;
+    font-size: 18px;
+    margin-bottom: 3px;
+    color: rgb(255, 94, 31);
+}
+
+.trenphongtrendem {
+    margin-top: 0px;
+    margin-bottom: 3px;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.giacuoicungtextformngoai {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 12px;
+    color: rgba(1,148,243,1.00);
+    font-weight: 500;
+}
+
+.sodiemnhan {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 12px;
+    font-weight: 500;
+    color: rgba(104,113,118,1.00);
+}
+
+.btndatngaymoiphong {
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 10px 20px 10px 20px;
+    margin-top: 10px;
+    background-color: orangered;
+    color: white;
+    border: transparent;
+}
+
+.anhtietkiem {
+    width: 16px;
+    height: 16px;
+    padding-top: 7px;
+}
+
+.tietkiemactive {
+    margin-top: 8px;
+    margin-bottom: -10px;
+    font-size: 12px;
+    font-weight: 600;
+    padding-left: 8px;
+    color: rgb(11, 193, 117);
+}
+
+.anhdieukiendacbiet {
+    width: 24px;
+    height: 24px;
+    padding-top: 15px;
+}
+
+.textdieukiendacbiet {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: rgba(1,148,243,1.00);
+    font-size: 14px;
+    padding-left: 7px;
+    font-weight: 600;
+    max-height: 37px;
+}
+
+.textdieukiendacbiet .tooltip {
+    visibility: hidden;
+    min-width: 200px;
+    max-width: 300px;
+    position: relative;
+    background-color: black;
+    color: #fff;
+    text-align: left;
+    border-radius: 6px;
+    padding: 5px;
+    z-index: 1;
+    bottom: 480%;
+    left: 20%;
+    margin-left: -150px;
+   
+}
+
+.textdieukiendacbiet:hover .tooltip {
+    visibility: visible;
+}
+
+.tooltiptitle {
+    margin-top: 0px;
+}
+
+.formdanhgiakhachsan {
+    width: 920px;
+    padding: 15px;
+}
+
+.titlediemdanhgia {
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 27px;
+    margin-left: 20px;
+}
+
+.phandiemdanhgiatheohinhanh {
+    flex-direction: column;
+    padding-left: 30px;
+   
+}
+
+.ratingcircle {
+    background-color:#18a8e6;
+    color: #fff;
+    height: 130px;
+    width: 130px;
+    display: inline-flex;
+    border-radius: 50%;
+    font-size: 45px;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+}
+
+.textrating {
+    color: rgba(27,160,226,1.00);
+}
+
+.chisodanhgia {
+    display: flex;
+}
+
+.titledohailong {
+    margin-top: 10px;
+    font-size: 14px;
+    text-align: left;
+    margin-bottom: 10px;
+    width: 80px;
+    font-weight: 500;
+}
+
+.thanhdanhgia {
+    width: 302px;
+    background-color: #888888;
+    height: 8px;
+    margin-top: 17px;
+    margin-left: 15px;
+    border-radius: 10px;
+}
+
+.thanhdanhgiatheoso {
+    background-color: rgba(27,160,226,1.00);
+    border-radius: 10px;
+    max-width: 302px;
+    min-width: 1px;
+    width: 200px;
+    height: 8px;
+}
+
+.soluongnguoidanhgia {
+    margin-top: 10px;
+    font-size: 14px;
+    text-align: center;
+    margin-left: 17px;
+    margin-bottom: 10px;
+    color: rgba(27,160,226,1.00);
+}
+
+.chisodanhgiadactinh {
+    display: flex;
+}
+
+.dactinh {
+    margin-top: 10px;
+    font-size: 14px;
+    text-align: left;
+    margin-bottom: 10px;
+    width: 80px;
+    font-weight: 500;
+}
+
+
+.sodiemdactinhsao {
+    width: 16px;
+    height: 16px;
+    padding-top: 10px;
+}
+
+.formsortingvacomment {
+    width: 920px;
+    padding: 15px;
+}
+
+.divsorttheotimevadiemleft {
+    width: 285px;
+    border: 1px solid black;
+    border-right: 1px solid transparent;
+    display: flex;
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.divsorttheotimevadiem {
+    width: 285px;
+    border: 1px solid black;
+    display: flex;
+    padding: 10px;
+}
+
+.divsorttheotimevadiemright {
+    width: 285px;
+    border: 1px solid black;
+    border-left: 1px solid transparent;
+    display: flex;
+    padding: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.hinhsort {
+    padding-left: 5px;
+    margin-top: 5px;
+}
+
+.titlesapxep {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: left;
+    font-size: 14px;
+    font-weight: 500;
+    color: rgba(104,113,118,1.00);
+}
+
+select:focus {
+    outline: none;
+}
+
+.sorttheotimevadiemdata {
+    width: 190px;
+    border: none;
+    background-color: whitesmoke;
+    font-size: 16px;
+    color: rgba(2,100,200,1.00);
+    text-align: center;
+}
+
+.commentcuakhach {
+    border: 1px solid black;
+    margin-top: 1px;
+    padding: 15px;
+}
+
+.anhdaidienvatenkhach {
+    display: flex;
+}
+
+.divanhdaidien {
+    margin-right: 10px;
+}
+
+.khunganhdaidien {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    background: rgba(242,243,243,1.00);
+    color: rgba(104,113,118,1.00);
+    font-weight: 700;
+    border: 3px solid wheat;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    cursor: pointer;
+    box-shadow: 0px 2px 5px rgb(3 18 26 / 15%);
+}
+
+.divtenkhachcomment {
+ margin-top: 5px;
+}
+
+.tenkhachcomment {
+    font-size: 17px;
+    font-weight: 700;
+    text-align: left;
+}
+ .loaitaikhoan {
+    color: rgba(104,113,118,1.00);
+    font-size: 14px;
+    font-weight: 500;
+    text-align: left;
+ }
+
+ .danhgiavangaydangcuakhach {
+     display: flex;
+     padding-top: 10px;
+ }
+
+.diemdanhgiacuakhach {
+    border-radius: 50px;
+    padding: 6px 9px; 
+    min-width: 60px;
+    max-width: 70px;
+    text-align: center;
+    line-height: 1;
+    display: flex;
+    background-color: rgb(206, 237, 255);
+}
+
+.sodiemduocchon {
+    font-size: 16px;
+    font-weight: 500;
+    padding-left: 5px;
+    color: rgba(1,148,243,1.00);
+    text-align: left;
+}
+
+.trentongsodiem {
+    color: rgba(104,113,118,1.00);
+    font-size: 16px;
+    font-weight: 500;
+    text-align: left;
+    padding-left: 4px;
+}
+
+.ngaydang {
+    padding-left: 680px;
+    margin-top: 5px;
+}
+
+.ngaydangtext {
+    text-transform: uppercase;
+    color: rgba(104,113,118,1.00);
+    text-align: left;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.loaichuyendi {
+    padding-top: 10px;
+    text-align: left;
+}
+
+.thehienloaichuyendi {
+    border-radius: 50px;
+    padding: 6px 9px; 
+    min-width: 60px;
+    max-width: 180px;
+    text-align: center;
+    line-height: 1;
+    display:inline-flex;
+    background-color: rgb(206, 237, 255);
+    
+    
+}
+
+.thehienloaichuyenditext {
+    font-size: 17px;
+    font-weight: 700;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: rgba(2,100,200,1.00);
+    text-align: left;
+}
+
+.noidungcuacomment {
+    padding-top: 15px;
+    text-align: left;
+    padding-right: 3px;
+}
+
+.noidungcommenttext {
+    line-height: 24px;
+    text-align: left;
+    font-size: 16px;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+.nutlike {
+    padding-top: 15px;
+    
+}
+
+.thichdanhgiakhong {
+    margin-top: 10px;
+}
+
+.formdanhgiakhachsan{
+    margin-left: 170px;
+}
+

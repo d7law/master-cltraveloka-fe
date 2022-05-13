@@ -1,0 +1,595 @@
+.divtongthu2 {
+    display: flex;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    margin-left: 100px;
+    margin-right: 200px;
+}
+
+.formtaikhoandangnhap {
+    margin-left: 0px;
+    padding: 15px;
+    width: 579px;
+    
+}
+
+.circle {
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    background-color: rgb(1, 148, 243);
+}
+
+.anhtaikhoan {
+   margin-top: 6px;
+   margin-right: 1px;
+}
+
+.dangnhapvoi {
+    margin-left: 15px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+.thongtincuaban {
+    text-align: left;
+}
+
+.formthongtincuaban {
+    margin-left: 0px;
+    padding: 15px;
+    width: 579px;
+}
+
+.titletennguoilienhe {
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.inputtennguoilienhe {
+    text-align: left;
+    width: 570px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.yeucaunhaptennguoilienhe {
+    text-align: left;
+    color: rgb(104, 113, 118);
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+.titlesodidong {
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 7px;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.titleemail {
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 7px;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.selectchonmaquocgiadidong {
+    width: 98px;
+    height: 38px;
+}
+
+
+/*dùng để duấ mũi tên tăng giá trị số*/
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.inputnhapsodidong {
+    width: 182px;
+    height: 32px;
+    max-height: 38px;
+    padding-left: 7px;
+    font-size: 16px;
+    font-weight: 550;
+}
+
+.inputemail {
+    width: 248px;
+    height: 32px;
+    font-size: 16px;
+    font-weight: 550;
+    padding-left: 7px;
+}
+
+.vidunhapsodienthoai {
+    text-align: left;
+    color: rgb(104, 113, 118);
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+.vidunhapemail {
+    text-align: left;
+    color: rgb(104, 113, 118);
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+.lk {
+    width: 50px;
+    transform: scale(0.8);
+    
+}
+
+.titleloaikhach {
+    font-size: 16px;
+    font-weight: 500;
+    width: 230px;
+    margin-top: 5px;
+}
+
+.titletenkhach {
+    text-align: left;
+}
+
+.formnhaptenkhach {
+    padding: 15px;
+    margin-left: 0px;
+    width: 579px;
+}
+
+.titletenkhachtrongform {
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.inputnhaptenkhach {
+    text-align: left;
+    width: 571px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.titleyeucaudacbiet {
+    text-align: left;
+}
+
+.formchonyeucaudacbiet {
+    padding:0px 0px 15px 0px;
+    margin-left: 0px;
+    width: 610px;
+}
+
+.luuydacbiettong {
+    border-radius: 15px;
+    background-color: grey;
+    padding: 15px 0px 15px 0px;
+}
+
+.luuyyeucaudacbiet {   
+    font-size: 12px;
+    text-align: left;
+    margin: 0px 30px 0px 30px;
+}
+
+.checkboxyeucaudacbiet {
+    border-radius: 10px;
+}
+
+.labelchoyeucaudacbiet {
+    font-size: 16px;
+    text-align: left;
+    width: 200px;
+    margin-top: 6px;
+    font-weight: 500;
+}
+
+.optionalcholoaigiuong {
+    margin-left: 30px;
+    transform: scale(0.9);
+    display: block;
+}
+
+.optionalloaigiuong {
+    width: 50px;
+    transform: scale(0.9);
+}
+
+.cacloaigiuong {
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 5px;
+}
+
+input[type=checkbox] {
+    transform: scale(0.8);
+    border-radius: 10px;
+    border: 1px solid black;
+    width: 40px;
+    cursor: pointer;
+    
+}
+
+input[type=time] {
+    width: 200px;
+    font-size: 16px;
+    cursor:pointer;
+    
+}
+
+.inputkhac {
+    width: 515px;
+    height: 150px;
+    font-size: 16px;
+    cursor: text;
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
+    vertical-align: top;
+    border-radius: 12px;
+    resize: none;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.titlechinhsachhuydatphong {
+    text-align: left;
+}
+
+.formchinhsachhuydatphong {
+    margin-left: 0px;
+    padding: 0px 0px 20px 0px;
+    width: 609px;
+}
+
+.divtitlehuydatphong {
+    padding: 15px 0px 15px 0px;
+    background-color: rgb(124, 139, 152);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.titlehuydatphong {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: left;
+    margin: 0px 30px 0px 30px;
+    font-size: 16px;
+    font-weight: 700; 
+}
+
+.noidunghuyphong {
+    text-align: left;
+    margin:20px 30px 0px 30px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.titleimportant {
+    text-align: left;
+}
+
+.formimportant {
+    margin-left: 0px;
+    padding: 15px;
+    width: 579px;
+    background-color: rgb(255, 241, 198);
+}
+
+.anhnotice {
+    width: 24px;
+    height: 24px;
+}
+
+.titlenotice {
+    margin-top: 0px;
+    padding-left: 12px;
+}
+
+.titlechinhsachnhanphong {
+    margin-bottom: 3px;
+}
+
+.chinhsachnhanphong {
+    margin-top: 0px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.titlechitietgia {
+    text-align: left;
+}
+
+.formchitietgia {
+    text-align: left;
+    margin-left: 0px;
+    width: 609px;
+    padding: 15px 0px 0px 0px;
+}
+
+.thanhtien {
+    text-align: left;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    width: 325px;
+    font-size: 18px;
+}
+
+.sothanhtien {
+    text-align: right;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 15px;
+    font-size: 18px;
+    width: 250px;
+}
+
+.giaphong {
+    text-align: left;
+    width: 325px;
+    font-weight: 500;
+    margin-left: 15px;
+}
+
+.sogiaphong {
+    text-align: right;
+    width: 250px;
+    font-weight: 500;
+}
+
+.giaphi {
+    text-align: left;
+    width: 325px;
+    font-weight: 500;
+    margin-left: 15px;
+}
+
+.sogiaphi {
+    text-align: right;
+    width: 250px;
+    font-weight: 500;
+}
+
+.divdiemvatimhieuchung {
+    display: flex;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: rgb(221, 236, 252);
+}
+
+.sodiemnhanduoc {
+    font-size: 14px;
+    font-weight: 500;
+    text-align: left;
+    width: 405px;
+    margin-left: 15px;
+}
+
+.timhieuthem {
+    text-align: right;
+    font-size: 14px;
+    font-weight: 500;
+    width: 170px;
+    color: rgb(1, 148, 243);
+}
+
+.policydatphong {
+    text-align: left;
+    font-size: 15px;
+    padding-right: 20px;
+}
+
+.underlinkpolicydatphong {
+    text-decoration-line: underline;
+    color: rgb(28, 53, 218);
+}
+
+.btntieptuc {
+    border-radius: 10px;
+    background-color: orangered;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 700;
+    margin-left: 190px;
+    cursor: pointer;
+    width: 100px;
+}
+
+.formnhoxemthongtinphong {
+    margin-top: 112px;
+    width: 305px;
+    padding: 5px 0px 5px 0px;
+}
+
+.formnhotenkhachsan {
+    text-align: left;
+    margin-bottom: 12px;
+    margin-top: 10px;
+}
+
+.formnhophanbietinfo {
+    border-radius: 50px;
+    border: 2px solid #18a8e6;
+    padding: 3px 6px; 
+    min-width: 70px;
+    max-width: 80px;
+    text-align: center;
+    line-height: 1;
+    font-size: 12px;
+    color: #18a8e6;
+    margin-top: -5px;
+}
+
+.divthoigiannhantraphong {
+    padding-left: 15px;
+    background-color: rgb(224, 224, 224);
+}
+
+.labelthoigiannhanphong {
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 119px;
+    text-align: left;
+    color: rgb(104, 113, 118);
+}
+
+.textthoigiannhanphong {
+    text-align: left;
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 7px;
+    width: 150px;
+    margin-right: 15px;
+}
+
+.labelthoigiantraphong {
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 119px;
+    text-align: left;
+    color: rgb(104, 113, 118);
+}
+
+.textthoigiantraphong {
+    text-align: left;
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 7px;
+    width: 150px;
+    margin-right: 15px;
+}
+
+.formnhotenphong {
+    text-align: left;
+    font-size: 16px;
+    padding-left: 15px;
+    margin: 0px 0px 5px 0px;
+}
+
+.divkhachvagiuong {
+    padding-left: 15px;
+   
+}
+
+.labelsokhachtrenphong {
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 119px;
+    text-align: left;
+    color: rgb(104, 113, 118);
+}
+
+.textsokhachtrenphong {
+    text-align: left;
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 7px;
+    width: 150px;
+    margin-right: 15px;
+}
+
+.labelkieugiuong {
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 119px;
+    text-align: left;
+    color: rgb(104, 113, 118);
+}
+
+.textkieugiuong {
+    text-align: left;
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 7px;
+    width: 150px;
+    margin-right: 15px;
+}
+
+.tienichinactiveformnho {
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    padding-left: 15px;
+    font-size: 15px;
+    font-weight: 500;
+    color: rgb(104, 113, 118);
+}
+
+.tienichactiveformnho {
+    text-align: left;
+    margin-top: 0px;
+    padding-left: 15px;
+    font-size: 15px;
+    font-weight: 500;
+    color: rgb(11, 193, 117);
+    margin-bottom: 10px;
+}
+
+.divchinhsachapdung {
+    padding-left: 15px;
+}
+
+.chinhsachhuyinactive {
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    padding-left: 15px;
+    font-size: 15px;
+    font-weight: 500;
+    color: rgb(104, 113, 118);
+}
+
+.chinhsachhuyactive {
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    padding-left: 15px;
+    font-size: 15px;
+    font-weight: 500;
+    color: rgb(47, 177, 248);
+}
+
+.booking{
+    margin-left: 100px;
+}
+
+h2{
+    text-align: center;
+}

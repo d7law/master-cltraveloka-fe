@@ -1,0 +1,33 @@
+.formxacnhanthanhcong {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
+
+.formxacnhanthanhcong h2{
+    margin-left: 50px;
+}
+
+.btnxacnhan {
+    border-radius: 7px;
+    background-color: orangered;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+     font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 50px;
+}
+
+.xacnhanform {
+    margin-top: 15%;
+    margin-bottom: 15%;
+    margin-left: 15%;
+    margin-right: 15%;
+}

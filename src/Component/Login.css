@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+}
+label a{
+    text-align: center;
+}
+
+form{
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+h5{
+    text-align: center;
+}
+
+.btnFacebook {
+    background-color: dodgerblue;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+
+.btnGoogle {
+    background-color: #DCDCDC;
+    border: none;
+    border-radius: 5px;
+    color: black;
+}
+
+.btnLogin{
+    background-color: rgb(255, 102, 0);
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
